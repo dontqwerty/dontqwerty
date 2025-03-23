@@ -6,7 +6,7 @@
 - 🎯 Currently working on **web applications development for data analysis**.
 - ❤️‍🔥 Deeply passionate about **low level programming, embedded systems, and computer security**.
 - 🔭 Looking forward to work on **machine learning and data analysis projects**.
-- 🌱 Currently learning the **Python Polylith architecture**.
+- 🌱 Currently learning **React Native**.
 
 ### ✨ Things I like and use
 
