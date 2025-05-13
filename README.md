@@ -3,10 +3,10 @@
 
 ### 👨‍💻 Status
 
-- 🎯 Currently working on **web applications development for data analysis**.
+- 🎯 Currently working on **ERP web applications development**.
 - ❤️‍🔥 Deeply passionate about **low level programming, embedded systems, and computer security**.
 - 🔭 Looking forward to work on **machine learning and data analysis projects**.
-- 🌱 Currently learning **React Native**.
+- 🌱 Currently learning **ArangoDB**.
 
 ### ✨ Things I like and use
 
@@ -18,14 +18,12 @@
 ![HTML](https://img.shields.io/badge/Langauge-HTML5-informational?style=flat&logo=html5&color=E34F26)
 ![CSS](https://img.shields.io/badge/Langauge-CSS-informational?style=flat&logo=css&color=663399)
 ![TypeScript](https://img.shields.io/badge/Langauge-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![JavaScript](https://img.shields.io/badge/Langauge-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![PHP](https://img.shields.io/badge/Langauge-PHP-informational?style=flat&logo=php&color=777BB4)
 ![LaTeX](https://img.shields.io/badge/Langauge-LaTeX-informational?style=flat&logo=latex&color=008080)
 ![MATLAB](https://img.shields.io/badge/Langauge-MATLAB-informational?style=flat&color=08609D)
 
 ![SQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
-![Elasticsearch](https://img.shields.io/badge/Database-SurrealDB-informational?style=flat&logo=surrealdb&color=FF00A0)
-![Elasticsearch](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&color=005571)
+![SurrealDB](https://img.shields.io/badge/Database-SurrealDB-informational?style=flat&logo=surrealdb&color=FF00A0)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=4EA94B)
 
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&color=4FC08D)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
@@ -40,7 +38,6 @@
 ![Google Colab](https://img.shields.io/badge/Cloud-Google%20Colab-informational?style=flat&logo=googlecolab&color=F9AB00)
 
 ![Vim](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&color=019733)
-![Atlassian](https://img.shields.io/badge/Tools-Atlassian-informational?style=flat&logo=atlassian&color=0052CC)
 ![Slack](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=slack&color=4A154B)
 ![Claude](https://img.shields.io/badge/Tools-Claude-informational?style=flat&logo=claude&color=D97757)
 
