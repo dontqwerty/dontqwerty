@@ -6,7 +6,7 @@
 - 🎯 Currently working on **ERP web applications development**.
 - ❤️‍🔥 Deeply passionate about **low level programming, embedded systems, and computer security**.
 - 🔭 Looking forward to work on **machine learning and data analysis projects**.
-- 🌱 Currently learning **ArangoDB**.
+- 🌱 Currently learning **Retrieval-augmented generation**.
 
 ### ✨ Things I like and use
 
